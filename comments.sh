@@ -1,8 +1,8 @@
 #!/bin/bash      
-#title           :
+#title           :Comments Shell scripting
 #description     :
-#author		     :Mithun Reddy Lacchannagari
-#date            :08112012
+#author		     :Madhu 
+#date            :22022022
 #version         :1.0    
 #usage		     :
 
